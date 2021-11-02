@@ -1,1 +1,1 @@
-# -goldilocks-org.github.io
+# goldilocks-org.github.io
